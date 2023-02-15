@@ -1,0 +1,5 @@
+echo '' > hello
+
+ls 4-empty
+
+4-empty hello
