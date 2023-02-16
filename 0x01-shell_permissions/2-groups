@@ -1,1 +1,3 @@
-$ sudo libuser-lid daygeek
+#!/bin/bash
+groups
+
